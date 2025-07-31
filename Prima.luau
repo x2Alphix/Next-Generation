@@ -1,1 +1,2 @@
-print("script in the discord server : https://discord.gg/p4nbCfs7zW")
+print("New script availebled in the discord server link copied")
+setclipboard("https://discord.gg/p4nbCfs7zW")
